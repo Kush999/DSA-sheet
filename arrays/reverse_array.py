@@ -1,5 +1,4 @@
 #Write a program to reverse an array or string
-
 #Basic solution
 
 arr=[1,2,3,4,5,6]
